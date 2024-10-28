@@ -1,5 +1,5 @@
-Fig. 2 gives a detailed statement introduction, and the other figures  are much the same.
-The main functions for this code can be seen in Figs. 1-15, and readers can run them directly.
+fig. 2 gives a detailed statement introduction, and the other figures  are much the same.
+The main functions for this code can be seen in figs. 1-15, and readers can run them directly.
 If you have any problems, can you contact me lgl-flash@qq.com.
 If you benefit from this code, please quote from our article: G. Li, et al. “Generalized Mixed-norm Maximum
 Correntropy for Robust Adaptive Filtering”. 
